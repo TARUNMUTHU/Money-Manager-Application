@@ -1,17 +1,10 @@
 # Money Manager Application 
-### Software Group Project (SEM-5)
 
 Java Android App that can help you manage your budget, track your expenses, and control your plans. 
 This app also visualize your expenses over months and your expenses in each budget category you set to make it easy to track user's expenses.
 
 [Download apk here](https://github.com/YatharthChauhan2362/Money-Manager-App/blob/main/apk/Money%20Manager.apk)
 
-Contributors:
-
-1. Yatharth Chauhan
-2. Sanket Bhimani 
-3. Stuti Bhatt 
-4. Khushbu Chauhan
 
 Technology Used: Java, Firebase
 
